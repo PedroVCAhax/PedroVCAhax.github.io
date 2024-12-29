@@ -1,0 +1,168 @@
+Uri: https://fonts.googleapis.com/css?family=Inter:100,200,300,regular,500,600,700,800,900&display=swap&subset=cyrillic-ext
+File Name: C:\Downloaded Web Sites\pedropedropedro.me\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuBWYAZJhjQ.ttf
+File Name: C:\Downloaded Web Sites\pedropedropedro.me\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuBWYAZJhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyfAZJhjQ.ttf
+File Name: C:\Downloaded Web Sites\pedropedropedro.me\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyfAZJhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYAZJhjQ.ttf
+File Name: C:\Downloaded Web Sites\pedropedropedro.me\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYAZJhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYAZJhjQ.ttf
+File Name: C:\Downloaded Web Sites\pedropedropedro.me\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYAZJhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYAZJhjQ.ttf
+File Name: C:\Downloaded Web Sites\pedropedropedro.me\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYAZJhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fAZJhjQ.ttf
+File Name: C:\Downloaded Web Sites\pedropedropedro.me\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fAZJhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyeAZJhjQ.ttf
+File Name: C:\Downloaded Web Sites\pedropedropedro.me\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyeAZJhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZJhjQ.ttf
+File Name: C:\Downloaded Web Sites\pedropedropedro.me\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZJhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuOKfAZJhjQ.ttf
+File Name: C:\Downloaded Web Sites\pedropedropedro.me\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuOKfAZJhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://pedropedropedro.me/
+File Name: C:\Downloaded Web Sites\pedropedropedro.me\index.htm
+Content Type: text/html
+
+Uri: https://pedropedropedro.me/audios/pedro.MP3
+File Name: C:\Downloaded Web Sites\pedropedropedro.me\audios\pedro.MP3
+Content Type: audio/mpeg
+
+Uri: https://pedropedropedro.me/css/style.min.css?v2
+File Name: C:\Downloaded Web Sites\pedropedropedro.me\css\style.min.css
+Content Type: text/css
+
+Uri: https://pedropedropedro.me/fonts/PedroMarker.woff
+File Name: C:\Downloaded Web Sites\pedropedropedro.me\fonts\PedroMarker.woff
+Content Type: application/font-woff
+
+Uri: https://pedropedropedro.me/img/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\pedropedropedro.me\img\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://pedropedropedro.me/img/enot.png
+File Name: C:\Downloaded Web Sites\pedropedropedro.me\img\enot.png
+Content Type: image/png
+
+Uri: https://pedropedropedro.me/img/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\pedropedropedro.me\img\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://pedropedropedro.me/img/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\pedropedropedro.me\img\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://pedropedropedro.me/img/hvost.png
+File Name: C:\Downloaded Web Sites\pedropedropedro.me\img\hvost.png
+Content Type: image/png
+
+Uri: https://pedropedropedro.me/img/play.svg
+File Name: C:\Downloaded Web Sites\pedropedropedro.me\img\play.svg
+Content Type: image/svg+xml
+
+Uri: https://pedropedropedro.me/img/q1.png
+File Name: C:\Downloaded Web Sites\pedropedropedro.me\img\q1.png
+Content Type: image/png
+
+Uri: https://pedropedropedro.me/img/q10.png
+File Name: C:\Downloaded Web Sites\pedropedropedro.me\img\q10.png
+Content Type: image/png
+
+Uri: https://pedropedropedro.me/img/q11.png
+File Name: C:\Downloaded Web Sites\pedropedropedro.me\img\q11.png
+Content Type: image/png
+
+Uri: https://pedropedropedro.me/img/q12.png
+File Name: C:\Downloaded Web Sites\pedropedropedro.me\img\q12.png
+Content Type: image/png
+
+Uri: https://pedropedropedro.me/img/q2.png
+File Name: C:\Downloaded Web Sites\pedropedropedro.me\img\q2.png
+Content Type: image/png
+
+Uri: https://pedropedropedro.me/img/q3.png
+File Name: C:\Downloaded Web Sites\pedropedropedro.me\img\q3.png
+Content Type: image/png
+
+Uri: https://pedropedropedro.me/img/q4.png
+File Name: C:\Downloaded Web Sites\pedropedropedro.me\img\q4.png
+Content Type: image/png
+
+Uri: https://pedropedropedro.me/img/q5.png
+File Name: C:\Downloaded Web Sites\pedropedropedro.me\img\q5.png
+Content Type: image/png
+
+Uri: https://pedropedropedro.me/img/q6.png
+File Name: C:\Downloaded Web Sites\pedropedropedro.me\img\q6.png
+Content Type: image/png
+
+Uri: https://pedropedropedro.me/img/q7.png
+File Name: C:\Downloaded Web Sites\pedropedropedro.me\img\q7.png
+Content Type: image/png
+
+Uri: https://pedropedropedro.me/img/q8.png
+File Name: C:\Downloaded Web Sites\pedropedropedro.me\img\q8.png
+Content Type: image/png
+
+Uri: https://pedropedropedro.me/img/q9.png
+File Name: C:\Downloaded Web Sites\pedropedropedro.me\img\q9.png
+Content Type: image/png
+
+Uri: https://pedropedropedro.me/img/qq1.png
+File Name: C:\Downloaded Web Sites\pedropedropedro.me\img\qq1.png
+Content Type: image/png
+
+Uri: https://pedropedropedro.me/img/safari-pinned-tab.svg
+File Name: C:\Downloaded Web Sites\pedropedropedro.me\img\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://pedropedropedro.me/img/stend.png
+File Name: C:\Downloaded Web Sites\pedropedropedro.me\img\stend.png
+Content Type: image/png
+
+Uri: https://pedropedropedro.me/img/stendm.png
+File Name: C:\Downloaded Web Sites\pedropedropedro.me\img\stendm.png
+Content Type: image/png
+
+Uri: https://pedropedropedro.me/img/tenor.gif
+File Name: C:\Downloaded Web Sites\pedropedropedro.me\img\tenor.gif
+Content Type: image/gif
+
+Uri: https://pedropedropedro.me/img/tg.png
+File Name: C:\Downloaded Web Sites\pedropedropedro.me\img\tg.png
+Content Type: image/png
+
+Uri: https://pedropedropedro.me/img/trash.png
+File Name: C:\Downloaded Web Sites\pedropedropedro.me\img\trash.png
+Content Type: image/png
+
+Uri: https://pedropedropedro.me/img/x.png
+File Name: C:\Downloaded Web Sites\pedropedropedro.me\img\x.png
+Content Type: image/png
+
+Uri: https://pedropedropedro.me/js/app.min.js
+File Name: C:\Downloaded Web Sites\pedropedropedro.me\js\app.min.js
+Content Type: application/x-javascript
+
+Uri: https://pedropedropedro.me/js/vendors.min.js?v1
+File Name: C:\Downloaded Web Sites\pedropedropedro.me\js\vendors.min.js
+Content Type: application/x-javascript
+
